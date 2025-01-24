@@ -17,3 +17,8 @@ Infraestructura como codigo
 | **terraform plan** 				 | Plan de ejecucion                                                                                                                                   |
 | **terraform apply** 				 |Ejecucion del plan y infraestructura de terraform   
 | **terraform destroy**                        |Destruye la infraestrutura creada                                                            |                                                                 |
+
+
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](https://www.dirsio.mx/)
+
+![Logo](https://web-dirsio.s3.us-west-1.amazonaws.com/favicon.ico)
