@@ -1,0 +1,31 @@
+# Archivos de estado de Terraform
+*.tfstate
+*.tfstate.*
+
+# Archivos de respaldo de Terraform
+*.backup
+
+# Lock file de Terraform (control de versiones del estado)
+.terraform.lock.hcl
+
+# Directorio de datos locales de Terraform
+.terraform/
+
+# Archivos de configuración variables sensibles
+*.tfvars
+*.tfvars.json
+
+# Archivos de salida de plan de Terraform
+*.plan
+
+# Archivos de logs
+crash.log
+
+# Archivos de configuración del sistema operativo o editor
+.DS_Store
+Thumbs.db
+
+# Archivos específicos de editores
+.vscode/
+.idea/
+*.swp

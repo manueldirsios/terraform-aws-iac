@@ -1,0 +1,5 @@
+Encuentra el ID de la instancia EC2:
+aws ec2 describe-instances --query "Reservations[*].Instances[*].InstanceId" --output table
+
+Termina la instancia EC2:
+aws ec2 terminate-instances --instance-ids i-0c07be32279ade382

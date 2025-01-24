@@ -1,0 +1,19 @@
+# TERRAFORM IAC
+
+## Prerequisitos
+
+- Terraform instalado
+- https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+
+## Configuracion
+
+Infraestructura como codigo 
+
+## Estructura de Comandos
+
+| Comando                                         | Descripcion                                                                                                                                                                               |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **terraform init** | Inicia la Carpeta a estructura terraform
+| **terraform plan** 				 | Plan de ejecucion                                                                                                                                   |
+| **terraform apply** 				 |Ejecucion del plan y infraestructura de terraform   
+| **terraform destroy**                        |Destruye la infraestrutura creada                                                            |                                                                 |

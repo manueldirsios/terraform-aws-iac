@@ -1,0 +1,7 @@
+[
+    {
+      "name": "nombre-del-contenedor",
+      "imageUri": "tu-repo-ecr.amazonaws.com/tu-imagen:latest"
+    }
+  ]
+  
